@@ -1,1 +1,1 @@
-redis:7.0.4
+rabbitmq:3.12-management
