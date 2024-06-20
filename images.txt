@@ -1,1 +1,1 @@
-apache/skywalking-ui:8.9.0
+mysql:8.0.32
