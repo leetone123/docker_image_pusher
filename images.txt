@@ -1,1 +1,1 @@
-kibana:7.17.4
+logstash:7.17.4
