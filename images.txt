@@ -1,1 +1,1 @@
-logstash:7.17.4
+apache/skywalking-oap-server:8.9.0
