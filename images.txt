@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.4.0.1
+--platform=linux/amd64 openjdk:8u292
