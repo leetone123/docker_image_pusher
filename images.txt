@@ -1,1 +1,1 @@
---platform=linux/amd64 openjdk:8u292
+--platform=linux/arm64/v8 openjdk:8u292
