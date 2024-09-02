@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 openjdk:8u292
+kibana:7.17.23
