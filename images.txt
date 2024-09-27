@@ -1,1 +1,1 @@
-bladex/sentinel-dashboard:1.8.7
+node:22.9.0,libretranslate/libretranslate:v1.6.1
