@@ -1,1 +1,2 @@
-node:22.9.0,libretranslate/libretranslate:v1.6.1
+node:22.9.0
+libretranslate/libretranslate:v1.6.1
