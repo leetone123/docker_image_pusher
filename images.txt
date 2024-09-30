@@ -1,2 +1,1 @@
-node:22.9.0
-libretranslate/libretranslate:v1.6.1
+xhongc/music_tag_web:2.2.4
