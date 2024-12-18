@@ -1,3 +1,1 @@
-apolloconfig/apollo-portal:2.3.0
-apolloconfig/apollo-adminservice:2.3.0
-apolloconfig/apollo-configservice:2.3.0
+mysql:5.7.44
