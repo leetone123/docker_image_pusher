@@ -1,1 +1,1 @@
-klausmeyer/docker-registry-browser:1.8
+apache/rocketmq:5.3.2
