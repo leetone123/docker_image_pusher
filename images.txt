@@ -1,2 +1,1 @@
-clickhouse:25.4.2.31
-mongodb/mongodb-community-server:7.0.4-ubuntu2204
+rabbitmq:4.1.0-management
