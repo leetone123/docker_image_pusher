@@ -1,1 +1,2 @@
-elasticsearch:6.4.3
+clickhouse:25.4.2.31
+mongodb/mongodb-community-server:7.0.4-ubuntu2204
