@@ -1,1 +1,1 @@
-python:3.8
+itzg/elasticsearch-curator:5.8.1
