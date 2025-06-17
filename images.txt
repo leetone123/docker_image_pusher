@@ -1,1 +1,1 @@
-itzg/elasticsearch-curator:5.8.1
+amir20/dozzle:v8.13.1
