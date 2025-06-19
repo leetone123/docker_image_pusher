@@ -1,1 +1,1 @@
-amir20/dozzle:v8.13.1
+openjdk:8u252-jdk
