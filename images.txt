@@ -1,1 +1,1 @@
-openjdk:8u252-jdk
+alpine:3.22.0
