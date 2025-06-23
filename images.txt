@@ -1,1 +1,1 @@
-alpine:3.22.0
+alpine:3.10
