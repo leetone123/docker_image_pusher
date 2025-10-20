@@ -1,1 +1,1 @@
-dber/latest
+dber:latest
