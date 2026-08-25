@@ -1,2 +1,2 @@
---platform=linux/arm64 mysql:8.4.11
+--platform=linux/arm64 firfe/diablo1web:2026.02.05-arm64
 
