@@ -1,2 +1,2 @@
---platform=linux/arm64 firfe/diablo1web:2026.02.08-arm64
+firfe/diablo1web:2026.02.08
 
