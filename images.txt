@@ -1,2 +1,1 @@
-soulteary/flare:0.6.15
-
+pinkmoone/con-nav-item:1.7.7
